@@ -1,0 +1,16 @@
+{
+  "port": 9000,
+  "log": false,
+  "mongoConfig": {
+    "host": "192.168.18.49",
+    "port": "31049",
+    "username": "root",
+    "password": "AbCd@1234",
+    "database": "cif",
+    "authSource": "admin",
+    "reconnectTries": 30,
+    "reconnectInterval": 1000,
+    "connectTimeoutMS": 2000,
+    "poolSize": 1
+  }
+}
