@@ -7,7 +7,7 @@ const UserComponent = props => {
   return (
     <Fragment>
       <Head>
-        <title>NEXTJS-REACTJS-REDUXSAGA-MATERIAL-SCSS-NODEJS-MONGODB</title>
+        <title>REACT-FULLSTACK</title>
         // <link rel="shortcut icon" href="/static/fav.ico" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
       </Head>

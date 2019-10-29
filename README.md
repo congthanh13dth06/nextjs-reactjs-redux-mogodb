@@ -1,4 +1,4 @@
-# NEXTJS-REACTJS-REDUXSAGA-MATERIAL-SCSS-NODEJS-MONGODB
+# REACT-FULLSTACK
 
 This project was generated with the [NextJS, ReactJS, Redux-Saga, Scss, NodeJS, Express, MongoDB](https://medium.com/@tilomitra/building-server-rendered-react-apps-with-nextjs-40313e978cb4)
 
