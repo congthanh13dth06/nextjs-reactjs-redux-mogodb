@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 15/09/2019 13:46.
+ *
+ * Copyright Intelin 2019.
+ */
+
 import { takeLatest } from 'redux-saga/effects'
 
 // import ActionType from '../actions/action.type'
@@ -20,7 +26,7 @@ class WatcherSaga {
   //   yield takeLatest(this.actionType.LOGIN_CHECK_PASSWORD, PublicLoginSaga.checkPassword.bind(PublicLoginSaga))
   // }
   //
-
+  
 }
 
 export default new WatcherSaga()

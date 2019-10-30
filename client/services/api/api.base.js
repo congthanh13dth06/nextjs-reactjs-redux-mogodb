@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 24/09/2019 13:38.
+ *
+ * Copyright Intelin 2019.
+ */
+
 import axios from 'axios'
 
 // import AppConfig from '../../../config/app.conf.json'

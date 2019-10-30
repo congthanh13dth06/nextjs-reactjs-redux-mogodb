@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 15/09/2019 13:46.
+ *
+ * Copyright Intelin 2019.
+ */
+
 import { put } from 'redux-saga/effects'
 
 // import AppServices from '../../app.services'

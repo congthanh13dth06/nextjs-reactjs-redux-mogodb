@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 07/10/2019 10:27.
+ *
+ * Copyright Intelin 2019.
+ */
+
 // import ActionType from './action.type'
 // import AppServices from '../../app.services'
 

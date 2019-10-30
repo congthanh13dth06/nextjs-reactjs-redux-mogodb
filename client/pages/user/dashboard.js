@@ -1,8 +1,14 @@
+/**
+ * Created By Nguyen Cong Thanh on 30/10/2019 15:02.
+ *
+ * Copyright Intelin 2019.
+ */
+
 'use strict'
 
 import Link from 'next/link'
 
-const UserComponent = () => {
+const DashboardPage = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-primary">
 			<div className="collapse navbar-collapse" id="navbarColor01">
@@ -11,7 +17,7 @@ const UserComponent = () => {
 						<Link href="/"><a className="nav-link">Home</a></Link>
 					</li>
 					<li className="nav-item">
-						<Link href="/public/login"><a className="nav-link">Login</a></Link>
+						<Link href="/login"><a className="nav-link">Login</a></Link>
 					</li>
 				</ul>
 			</div>
@@ -19,4 +25,4 @@ const UserComponent = () => {
 	)
 };
 
-export default UserComponent;
+export default DashboardPage;

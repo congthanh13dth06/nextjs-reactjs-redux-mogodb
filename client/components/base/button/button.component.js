@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 29/10/2019 14:05.
+ *
+ * Copyright Intelin 2019.
+ */
+
 import React from 'react'
 import { Button, Container, makeStyles } from '@material-ui/core';
 
@@ -18,8 +24,15 @@ const ButtonComponent = props => {
 
   const classes = useStyles()
 
+  const { onClick } = props
+
   return (
-    <Button variant="contained" color="primary" className={classes.button}>
+    <Button
+      variant="contained"
+      color="primary"
+      className={classes.button}
+      onClick={onClick}
+    >
       {props.text}
     </Button>
   )

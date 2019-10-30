@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 11/04/2019 15:01.
+ *
+ * Copyright Intelin 2019.
+ */
+
 // import EnvConfig from '../../../config/env.conf.json'
 
 const getTime = () => {

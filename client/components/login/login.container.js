@@ -1,7 +1,12 @@
+/**
+ * Created By Nguyen Cong Thanh on 29/10/2019 14:05.
+ *
+ * Copyright Intelin 2019.
+ */
+
 'use strict'
 
 import { connect } from 'react-redux';
-import { withRouter } from 'react-router-dom'
 
 import LoginComponent from './login.component'
 
@@ -17,4 +22,4 @@ const mapDispatchToProps = (dispatch) => {
   return {}
 };
 
-export default withRouter(connect(mapStateToProps, mapDispatchToProps)(LoginComponent))
+export default connect(mapStateToProps, mapDispatchToProps)(LoginComponent)

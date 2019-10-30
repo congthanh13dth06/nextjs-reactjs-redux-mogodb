@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 09/05/2019 11:26.
+ *
+ * Copyright Intelin 2019.
+ */
+
 // import AppServices from '../../../app.services'
 // import WorkerSaga from '../worker.saga'
 

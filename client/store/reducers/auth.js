@@ -1,3 +1,9 @@
+/**
+ * Created By Nguyen Cong Thanh on 17/09/2019 16:56.
+ *
+ * Copyright Intelin 2019.
+ */
+
 // import ActionType from '../actions/action.type'
 
 const stateDefault = {
